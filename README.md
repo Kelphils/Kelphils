@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in self development and growth, always looking to add value to wherever I find myself  ...
 - 🔭 Automation, Cloud Architecture and DevOps.
-- 🌱 I’m pursuing AWS 11x, currently [AWS 5x](https://www.credly.com/users/chibueze-obioha/badges)
+- 🌱 I’m pursuing AWS 11x, currently [AWS 6x](https://www.credly.com/users/chibueze-obioha/badges)
 - 📫 How to reach me [@kelphils](https://linkedin.com/in/kelphils)
 
 
