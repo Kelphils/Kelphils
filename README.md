@@ -1,4 +1,4 @@
-### Hi there 👋 am Kelvin
+### Hi there 👋 I'm Kelvin
 
 [![wakatime](https://wakatime.com/badge/user/cfd26488-b85e-437c-a812-2b85b5c188ef.svg)](https://wakatime.com/@cfd26488-b85e-437c-a812-2b85b5c188ef)
 
